@@ -1,6 +1,7 @@
 # Aplicación Dashboard Supabase
 
-![Portada del proyecto](public/captura.png)
+<img width="1366" height="688" alt="image" src="https://github.com/user-attachments/assets/fd72fcbc-236c-4cba-84f5-da07e2f5f531" />
+
 
 ## Descripción
 
